@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name_only">Notes For Everyone</string>
+    <string name="facebook_app_id">2039717419662882</string>
+    <string name="fb_login_protocol_scheme">fb2039717419662882</string>
+    <string name="login_message">Congratulation!\nYou are Logged In Successfully.</string>
+    <string name="log_out">Log Out</string>
+    <string name="login_activity_text">Sign In immediately to get your notes!</string>
+    <string name="app_logo">TODO</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="main_activity_label">B.Tech Notes</string>
+    <string name="subject_name_with_unit">Subject Name with Unit</string>
+
+</resources>
+
